@@ -3,7 +3,7 @@
   <title>11 Books by Indian Authors You Must Read at Least Once in Your Lifetime</title>
 </head>
 <body>
-  <h2>Choose an Author:</h2>
+  <h2> 11 Books by Indians Must Read at Least Once in Your Lifetime to know Choose an Author:</h2>
   <form method="get">
     <input type="checkbox" name="author" value="White Tiger">Arvind_Adiga
     <input type="checkbox" name="author" value="Nectar In A Sieve"> Kamala_Markandaya
